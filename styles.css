@@ -1,0 +1,52 @@
+body {
+    background: orange url(bg.png);
+    font-family: 'Nanum Gothic', sans-serif;
+}
+.h {
+    border: blue;
+    padding: 5px;
+    border-style: outset;
+    background: darkblue;
+    color: yellow;
+    text-align: center;
+}
+.menu {
+    border: darkorange;
+    padding: 10px;
+    border-style: groove;
+    background: orange url(bg.png);
+    font-size: large;
+}
+.copyright {
+    padding-top: 100px;
+    text-align: center;
+    font-size: small;
+}
+.comment {
+    border: black;
+    padding: 5px;
+    border-style: outset;
+    background: darkorange;
+}
+.brat {
+    border: black;
+    padding: 2px;
+    background: orange;
+    border-style: outset;
+    padding-top: 3px;
+}
+.unknown {
+    border: black;
+    padding: 2px;
+    background: orange;
+    border-style: outset;
+}
+.loshara {
+    border: black;
+    padding: 2px;
+    background: orange;
+    border-style: outset;
+}
+.answer {
+    padding-right: 10px;
+}
