@@ -50,3 +50,15 @@ body {
 .answer {
     padding-right: 10px;
 }
+.back {
+    text-align: center;
+}
+.menu2 {
+    text-align: center;
+}
+.update {
+    background: orange;
+    border: black;
+    padding: 2px;
+    border-style: outset;
+}
