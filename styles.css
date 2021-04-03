@@ -57,8 +57,22 @@ body {
     text-align: center;
 }
 .update {
+    background:darkblue;
+    border: black;
+    padding: 2px;
+    border-style: outset;
+    color: yellow ;
+}
+.backup {
     background: orange;
     border: black;
     padding: 2px;
     border-style: outset;
+}
+.menu3 {
+    text-align: center;
+    border: black;
+    padding: 0px;
+    border-style: outset;
+    background:orange
 }
