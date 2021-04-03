@@ -1,0 +1,11 @@
+body {
+    background: green url(bg2.jpg);
+    font-family: 'Dela Gothic One', cursive;
+    text-align: center;
+}
+.opt {
+    font-size: larger;
+}
+.o {
+    display: block;
+}
